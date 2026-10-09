@@ -1,6 +1,28 @@
 # MoeDiskScreenSaver
 
-MoeDiskScreenSaver 是一个使用 Qt 编写的跨平台 DVD 动画屏幕保护程序，并带有可爱的盘姬启动界面和屏幕刷新率观察工具。
+<div align="center">
+  <img src="resources/dvd-princess-mascot.png" width="460" alt="MoeDiskScreenSaver 盘姬吉祥物">
+  <p><strong>让盘姬陪你看 DVD 撞角落，也陪你观察屏幕跑得够不够顺。</strong></p>
+  <p>@本地磁盘姬 作品 · @made by MoeDisk</p>
+</div>
+
+MoeDiskScreenSaver 是一个使用 Qt 编写的跨平台 DVD 动画屏幕保护程序，带有可爱的盘姬启动界面和屏幕刷新率观察工具。
+
+## 界面预览
+
+### 盘姬启动界面
+
+![MoeDiskScreenSaver 中文启动界面](docs/images/launcher.png)
+
+### DVD 动画
+
+![DVD 标志弹跳动画](docs/images/dvd-animation.png)
+
+### 屏幕刷新率观察
+
+| 测试说明 | 运动清晰度与帧时间 |
+| --- | --- |
+| ![刷新率测试说明](docs/images/refresh-guide.png) | ![刷新率运动清晰度测试](docs/images/refresh-test.png) |
 
 ## 功能
 
@@ -54,6 +76,15 @@ build.bat
 - `--settings`：打开设置说明
 
 Windows 同时支持屏幕保护程序标准参数 `/s`、`/p` 和 `/c`。
+
+## 支持项目
+
+如果这个小工具让你的桌面更有趣，欢迎自愿投喂盘姬。感谢每一份支持，也请量力而行。
+
+<div align="center">
+  <img src="docs/images/wechat-donation.png" width="280" alt="微信赞赏码">
+  <p>微信扫一扫 · 赞赏支持</p>
+</div>
 
 ## 作者
 
