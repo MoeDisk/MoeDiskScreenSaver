@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=MoeDiskScreenSaver
+GenericName=Screen Saver
+Comment=Bouncing DVD logo by MoeDisk
+Exec=MoeDiskScreenSaver
+Icon=moedisk-screensaver
+Categories=Utility;
+Terminal=false
+StartupNotify=false
+StartupWMClass=MoeDiskScreenSaver
+Actions=ScreenSaver;
+
+[Desktop Action ScreenSaver]
+Name=Start Screen Saver
+Name[zh_CN]=启动屏幕保护
+Exec=MoeDiskScreenSaver --screensaver

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DVDVideo360.png</file>
+        <file>mascot-running.png</file>
+        <file>display-test-illustration.png</file>
+        <file>dvd-princess-mascot.png</file>
+        <file>dvd-princess-icon.png</file>
+    </qresource>
+</RCC>
